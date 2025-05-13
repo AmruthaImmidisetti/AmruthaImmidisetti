@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @AmruthaImmidisetti  
-- 👀 I’m interested in Coding, Algorithms, Data Structures, and Designing  
-- 🌟 I have learned C, C++, Java, Python, and SQL (Database)  
-- 💡 I enjoy solving real-world problems and exploring new technologies  
-- 💻 I'm currently working on improving my skills through projects and coding challenges
+- 👋 Hi there, I’m Amrutha Immidisetti!
+- 🎓 I’m currently pursuing B.Tech in Artificial Intelligence and Machine Learning (AIML) at Aditya College of Engineering and Technology.  
+- 👀 I’m deeply interested in Coding, Algorithms, Data Structures.  
+- 💡 I love solving real-world problems, exploring new technologies, and building smart solutions.  
+- 🌟 I’m skilled in C, C++, Java, Python, and SQL, and actively learning Machine Learning and AWS.  
+- 🏆 Solved 300+ problems on LeetCode, 200+ on GeeksforGeeks, and earned competitive ratings on CodeChef and HackerRank.  
+- 📜 I’m certified in Python, C++, Java, C, and SQL from Cisco, Oracle Academy, and HackerRank.  
+- 🚀 Currently enhancing my skills through hands-on projects, coding contests, and continuous learning.  
+- 🔗 Let’s connect and grow together in the tech journey!
