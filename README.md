@@ -3,7 +3,7 @@
 - 👀 I’m deeply interested in Coding, Algorithms, Data Structures.  
 - 💡 I love solving real-world problems, exploring new technologies, and building smart solutions.  
 - 🌟 I’m skilled in C, C++, Java, Python, and SQL, and actively learning Machine Learning and AWS.  
-- 🏆 Solved 350+ problems on LeetCode, 200+ on GeeksforGeeks, and earned competitive ratings on CodeChef and HackerRank.  
+- 🏆 Solved 400+ problems on LeetCode, 200+ on GeeksforGeeks, and earned competitive ratings on CodeChef and HackerRank.  
 - 📜 I’m certified in Python, C++, Java, C, and SQL from Cisco, Oracle Academy, and HackerRank.  
 - 🚀 Currently enhancing my skills through hands-on projects, coding contests, and continuous learning.  
 - 🔗 Let’s connect and grow together in the tech journey!
