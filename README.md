@@ -1,6 +1,6 @@
 # Hi, I'm Amrutha Varshini Immidisetti
 
-### Aspiring Software Development Engineer | Problem Solver | AI & Cloud Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=58A6FF&center=false&vCenter=false&width=850&lines=Aspiring+Software+Development+Engineer;Aspiring+Machine+Learning+Engineer;Problem+Solver+%7C+700%2B+LeetCode+Problems;AI+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
 
 I'm an Artificial Intelligence and Machine Learning undergraduate at **Aditya College of Engineering and Technology**, passionate about software development, problem-solving, and building practical technology solutions.
 
@@ -9,7 +9,7 @@ I enjoy solving Data Structures and Algorithms problems, developing applications
 - 🎓 **B.Tech in Artificial Intelligence and Machine Learning** — 2023–2027
 - 📊 **Current GPA:** 9.26
 - 💻 Focused on Data Structures, Algorithms, Object-Oriented Programming, and Software Development
-- ☁️ Hands-on experience with AWS, Docker, Kubernetes, and CI/CD tools
+- ☁️ Hands-on experience with AWS, Machine Learning, Docker, Kubernetes, and CI/CD tools
 - 🤖 Interested in building intelligent applications and scalable software systems
 - 🚀 Always learning, building, and improving.
 
@@ -38,19 +38,22 @@ I enjoy solving Data Structures and Algorithms problems, developing applications
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**Concepts:** Data Structures and Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Linux Basics, Supervised and Unsupervised Learning, Model Evaluation, Deep Learning Fundamentals, and NLP Fundamentals.
+**Concepts:** Supervised Learning, Unsupervised Learning, Data Preprocessing, Feature Engineering, Model Training and Evaluation, Deep Learning Fundamentals (ANN, CNN, RNN, LSTM, GRU), and NLP Fundamentals.
+
+### Computer Science Fundamentals
+**Data Structures and Algorithms (DSA) · Object-Oriented Programming (OOP) · Database Management Systems (DBMS) · Operating Systems · Linux Basics**
 
 ### Cloud Technologies
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-**AWS Services:** EC2, S3, IAM, CloudWatch, SQS, Lambda, Elastic Load Balancing, Auto Scaling, and AWS AI Services.
+**AWS Services:** EC2, S3, IAM, CloudWatch, SQS, Lambda, Elastic Load Balancing, Auto Scaling, and AWS AI Services (Rekognition, Lex, Polly, Transcribe, Comprehend, Textract, Bedrock).
 
 ---
 
 ##  Featured Projects
 
-### 1. ProDex — Smart Product Aggregator with Virtual Try-On
+### 1. [ProDex — Smart Product Aggregator with Virtual Try-On](https://github.com/AmruthaImmidisetti/ProDex)
 
 A full-stack product discovery platform that aggregates products from multiple e-commerce websites and supports text, voice, and image-based search.
 
@@ -62,11 +65,9 @@ A full-stack product discovery platform that aggregates products from multiple e
 
 **Tech Stack:** Python, Flask, JavaScript, HTML, CSS, SERP API, Google Cloud Storage, Vertex AI.
 
-🔗 [View Repository](https://github.com/AmruthaImmidisetti/ProDex)
-
 ---
 
-### 2. Smart Lender — AI-Powered Loan Approval Prediction
+### 2. [Smart Lender — AI-Powered Loan Approval Prediction](https://github.com/AmruthaImmidisetti/Smart-Lender)
 
 A machine learning web application that predicts loan approval outcomes using applicant information to support data-driven credit evaluation.
 
@@ -79,11 +80,9 @@ A machine learning web application that predicts loan approval outcomes using ap
 
 **Tech Stack:** Python, Flask, Scikit-learn, Pandas, NumPy, KNN, Decision Tree, Random Forest, XGBoost, HTML, CSS.
 
-🔗 [View Repository](https://github.com/AmruthaImmidisetti/Smart-Lender)
-
 ---
 
-### 3. DeployZen — Static Website Deployment Automation
+### 3. [DeployZen — Static Website Deployment Automation](https://github.com/AmruthaImmidisetti/DeployZen)
 
 A web application that automates static website deployment through GitHub integration or manual ZIP uploads, using AWS services for processing and hosting.
 
@@ -95,8 +94,6 @@ A web application that automates static website deployment through GitHub integr
 - Integrated authentication and chatbot support.
 
 **Tech Stack:** AWS EC2, AWS Lambda, Amazon S3, Amazon DynamoDB, Flask, HTML, CSS, JavaScript, Tailwind CSS.
-
-🔗 [View Repository](https://github.com/AmruthaImmidisetti/DeployZen)
 
 ---
 
@@ -118,14 +115,13 @@ A web application that automates static website deployment through GitHub integr
 
 ---
 
-##  Achievements
+## 🏆 Achievements
 
-- Solved **700+ problems on LeetCode**, achieving a contest rating of **1673**.
-- Solved **700+ programming problems on CodeChef**, with a maximum contest rating of **1473**.
-- Solved **230+ problems on GeeksforGeeks**.
-- Earned **5-star in SQL**, **4-star in C and C++**, and **3-star in Python and Problem Solving** on HackerRank.
+- Solved **[700+ problems on LeetCode](https://leetcode.com/u/amrutha_Varshini06/)**, achieving a contest rating of **1673**.
+- Solved **[700+ programming problems on CodeChef](https://www.codechef.com/users/amrutha84)**, with a maximum contest rating of **1473**.
+- Solved **[230+ problems on GeeksforGeeks](https://www.geeksforgeeks.org/user/ammuamrutha06/)**.
+- Earned **5-star in SQL**, **4-star in C and C++**, and **3-star in Python and Problem Solving** on [HackerRank]([https://www.hackerrank.com/](https://www.hackerrank.com/profile/ammuamrutha6699)).
 - Ranked among the top performers in a Technical Hub coding challenge.
-
 ---
 
 ##  Certifications
@@ -166,10 +162,6 @@ A web application that automates static website deployment through GitHub integr
 </p>
 
 ---
-
-<p align="center">
-  <i>"Great software is built one problem, one solution, and one improvement at a time."</i>
-</p>
 
 <p align="center">
   Thanks for visiting my profile! ⭐ Feel free to explore my repositories and connect with me.
